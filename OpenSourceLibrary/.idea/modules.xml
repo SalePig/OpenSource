@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/OpenSourceLibrary.iml" filepath="$PROJECT_DIR$/OpenSourceLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ds_android.iml" filepath="$PROJECT_DIR$/../ds_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../library/library.iml" filepath="$PROJECT_DIR$/../library/library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../live/live.iml" filepath="$PROJECT_DIR$/../live/live.iml" />
+    </modules>
+  </component>
+</project>

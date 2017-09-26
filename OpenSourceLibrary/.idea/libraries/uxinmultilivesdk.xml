@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="uxinmultilivesdk">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../live/libs/uxinmultilivesdk.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
